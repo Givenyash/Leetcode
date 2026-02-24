@@ -15,6 +15,7 @@ public:
         }
         return ans;   
     }
+};
 
     int main(){
         Solution s;
@@ -24,5 +25,5 @@ public:
         int reversed_num =s.reverse(num);
         cout<< "Reversed integer: "<<reversed_num <<endl;
         return 0;
+
     }
-};
