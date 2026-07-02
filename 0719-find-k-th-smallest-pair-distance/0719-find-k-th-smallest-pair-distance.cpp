@@ -24,9 +24,9 @@ public:
         int count = 0;
         int l = 0;
 
-        for(int r = 1; r < nums.size(); r++){
+        for(int r = 1; r < nums.size(); ++r){
             while(nums[r] - nums[l] > target){
-                l++;
+                ++l;
             }
             count = count + (r-l);
         }
