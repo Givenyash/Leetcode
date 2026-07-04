@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1089-duplicate-zeros](https://github.com/Givenyash/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/Givenyash/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Interactive
 |  |
@@ -59,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
