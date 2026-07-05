@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Givenyash/Leetcode/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Givenyash/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
