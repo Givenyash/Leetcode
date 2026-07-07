@@ -1,8 +1,7 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        vector<int>freq(n,0);
+        vector<int>freq(nums.size(),0);
 
         int ans = 0;
         for(auto num : nums){
