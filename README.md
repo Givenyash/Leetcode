@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Givenyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1095-find-in-mountain-array](https://github.com/Givenyash/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -82,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
