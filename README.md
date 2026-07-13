@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Givenyash/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Givenyash/Leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Givenyash/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1089-duplicate-zeros](https://github.com/Givenyash/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
