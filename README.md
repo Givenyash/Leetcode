@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Givenyash/Leetcode/tree/master/0299-bulls-and-cows) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Givenyash/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
