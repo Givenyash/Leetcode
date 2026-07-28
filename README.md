@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Givenyash/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
+| [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Givenyash/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Givenyash/Leetcode/tree/master/1291-sequential-digits) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
