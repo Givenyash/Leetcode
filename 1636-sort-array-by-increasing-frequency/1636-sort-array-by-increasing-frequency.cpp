@@ -6,11 +6,11 @@ public:
             freq[x]++;
         }
         sort(nums.begin(), nums.end(), [&](int a, int b){
-            if(freq[a] != freq[b]){
-                return freq[a] < freq[b];
+            if(freq[a] == freq[b]){
+                return a > b;
             }
             else{
-                return b < a;
+                return freq[a] < freq[b];
             }
         });
         return nums;
