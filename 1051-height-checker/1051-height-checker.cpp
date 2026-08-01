@@ -7,8 +7,8 @@ public:
         int j = 0;
         int count = 0;
 
-        for(int x : heights){
-            if(x != nums[j]) count++;
+        for(int x=0; x<heights.size(); x++){
+            if(heights[x] != nums[j]) count++;
             j++;
         }
         return count;
