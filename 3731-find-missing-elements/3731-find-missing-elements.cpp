@@ -5,12 +5,18 @@ public:
 
         int mx = *max_element(nums.begin(), nums.end());
         int mn = *min_element(nums.begin(), nums.end());
-        
-        unordered_set<int>st(nums.begin(), nums.end());
-        vector<int>ans;
+        sort(nums.begin(), nums.end());
 
-        for(int i=mn; i<= mx; i++){
-            if(!st.count(i)) ans.push_back(i);
+        vector<int>ans;
+        int l = 0;
+
+        for(int i=mn; i<=mx; i++){
+            if(nums[l] != i){
+                ans.push_back(i);
+            }
+            else{
+                l++;
+            }
         }
         return ans;
     }
