@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Givenyash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
+| [2278-percentage-of-letter-in-string](https://github.com/Givenyash/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Givenyash/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Givenyash/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
