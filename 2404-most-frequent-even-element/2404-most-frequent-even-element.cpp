@@ -2,19 +2,24 @@ class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
         unordered_map<int,int>mp;
-        for(int i : nums){
-            if(i % 2 == 0){
-                mp[i]++;
+        int n = nums.size();
+
+        for(int x : nums){
+            if(x % 2 == 0){
+                mp[x]++;
             }
         }
-        if(mp.empty()) return -1;
-        vector<pair<int,int>>freq(mp.begin(), mp.end());
-        sort(freq.begin(), freq.end(), [](auto a, auto b){
-            if(a.second == b.second){
-                return a.first < b.first;
+        int max = 0;
+        int ans = -1;
+
+        for(auto it : mp){
+            int num = it.first;
+            int freq = it.second;
+            if(freq > max or (freq==max and num < ans)){
+                max = freq;
+                ans = num;
             }
-            return a.second > b.second;
-        });
-        return freq[0].first;
+        }
+        return ans;
     }
 };
