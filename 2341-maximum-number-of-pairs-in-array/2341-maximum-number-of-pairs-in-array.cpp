@@ -13,10 +13,6 @@ public:
             count += a.second / 2;
             remove += a.second % 2;
         }
-        vector<int>ans;
-        ans.push_back(count);
-        ans.push_back(remove);
-
-        return ans;
+        return {count, remove};
     }
 };
