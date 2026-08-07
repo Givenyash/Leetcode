@@ -1,24 +1,26 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int>ans;
-        for(int i=0; i<nums1.size(); i++){
-            bool found = false;
-            for(int j=0; j<nums2.size(); j++){
-                if(nums1[i] == nums2[j]){
-                    for(int k=j+1; k<nums2.size(); k++){
-                        if(nums2[k] > nums2[j]){
-                            ans.push_back(nums2[k]);
-                            found = true;
-                            break;
-                        }
-                    }
+        unordered_map<int, int> position;
+
+        int index = 0;
+        for(auto x : nums2){
+            position[x] = index;
+            index++;
+        }
+
+        vector<int> ans;
+        for(auto x : nums1){
+            int pos = position[x];
+            int greater = -1;
+
+            for(int i = pos + 1; i < nums2.size(); i++){
+                if(nums2[i] > x){
+                    greater = nums2[i];
                     break;
                 }
             }
-            if(!found){
-                ans.push_back(-1);
-            }
+            ans.push_back(greater);
         }
         return ans;
     }
