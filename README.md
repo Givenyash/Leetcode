@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Givenyash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Givenyash/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Givenyash/Leetcode/tree/master/0877-stone-game) |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/Givenyash/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -153,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Givenyash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Givenyash/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 ## Counting
 |  |
 | ------- |
