@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Givenyash/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Givenyash/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
