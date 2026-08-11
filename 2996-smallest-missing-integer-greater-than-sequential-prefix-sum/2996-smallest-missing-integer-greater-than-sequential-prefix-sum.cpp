@@ -15,7 +15,7 @@ public:
             mp[x]++;
         }
 
-        while(mp.count(total)){
+        while(mp.contains(total)){
             total++;
         }
         return total;
