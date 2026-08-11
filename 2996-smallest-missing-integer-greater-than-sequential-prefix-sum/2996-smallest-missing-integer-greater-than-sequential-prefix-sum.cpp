@@ -10,12 +10,9 @@ public:
                 break;
             }
         }
-        unordered_map<int,int>mp;
-        for(int x : nums){
-            mp[x]++;
-        }
+        unordered_set<int>st(nums.begin(), nums.end());
 
-        while(mp.contains(total)){
+        while(st.count(total)){
             total++;
         }
         return total;
