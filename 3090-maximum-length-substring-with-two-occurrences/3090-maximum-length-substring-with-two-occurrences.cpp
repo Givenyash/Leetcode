@@ -3,13 +3,14 @@ public:
     int maximumLengthSubstring(string s) {
         int maxLen = 0;
         int l = 0;
-        vector<int> freq(26);
+        unordered_map<char,int>freq;
 
         for(int r = 0; r<s.size(); r++){
-            freq[s[r] - 'a']++;
+            freq[s[r]]++;
 
-            while(freq[s[r] - 'a'] > 2){
-                freq[s[l++] - 'a']--;
+            while(freq[s[r]] > 2){
+                freq[s[l]]--;
+                l++;
             }
             maxLen = max(maxLen, r-l+1);;
         }
