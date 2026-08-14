@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Givenyash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Givenyash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Givenyash/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Givenyash/Leetcode/tree/master/0877-stone-game) |
+| [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Givenyash/Leetcode/tree/master/1051-height-checker) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
+| [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Givenyash/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Givenyash/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/Givenyash/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0860-lemonade-change](https://github.com/Givenyash/Leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
 | [0954-array-of-doubled-pairs](https://github.com/Givenyash/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Givenyash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
