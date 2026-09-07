@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Givenyash/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Givenyash/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Givenyash/Leetcode/tree/master/1154-day-of-the-year) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Givenyash/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Givenyash/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Givenyash/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Givenyash/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Givenyash/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Givenyash/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Givenyash/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Givenyash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
