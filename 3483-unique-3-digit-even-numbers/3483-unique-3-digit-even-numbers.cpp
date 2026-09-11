@@ -1,7 +1,7 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        set<string>st;
+        set<int>st;
         for(int i=0; i<digits.size(); i++){
             for(int j=0; j<digits.size(); j++){
                 for(int k=0; k<digits.size(); k++){
@@ -14,16 +14,19 @@ public:
                     if(digits[i] == 0){
                         continue;
                     }
+                    int num = digits[i] * 100 +
+                              digits[j] * 10 +
+                              digits[k];
 
-                    char ch1 = digits[i] + '0';
-                    char ch2 = digits[j] + '0';
-                    char ch3 = digits[k] + '0';
+                    // char ch1 = digits[i] + '0';
+                    // char ch2 = digits[j] + '0';
+                    // char ch3 = digits[k] + '0';
                     
-                    string s = "";
-                    s += ch1;
-                    s += ch2;
-                    s += ch3;
-                    st.insert(s);
+                    // string s = "";
+                    // s += ch1;
+                    // s += ch2;
+                    // s += ch3;
+                    st.insert(num);
                 }
             }
         }
