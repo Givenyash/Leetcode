@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int totalNumbers(vector<int>& digits) {
+        set<string>st;
+        for(int i=0; i<digits.size(); i++){
+            for(int j=0; j<digits.size(); j++){
+                for(int k=0; k<digits.size(); k++){
+                    if(i == j or j==k or k==i){
+                        continue;
+                    }
+                    if(digits[k] % 2 != 0){
+                        continue;
+                    }
+                    if(digits[i] == 0){
+                        continue;
+                    }
+
+                    char ch1 = digits[i] + '0';
+                    char ch2 = digits[j] + '0';
+                    char ch3 = digits[k] + '0';
+                    
+                    string s = "";
+                    s += ch1;
+                    s += ch2;
+                    s += ch3;
+                    st.insert(s);
+                }
+            }
+        }
+        return st.size();
+    }
+};
