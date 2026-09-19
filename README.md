@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Givenyash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Givenyash/Leetcode/tree/master/1927-sum-game) |
 | [2278-percentage-of-letter-in-string](https://github.com/Givenyash/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Givenyash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Givenyash/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Givenyash/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Givenyash/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Givenyash/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
+| [2390-removing-stars-from-a-string](https://github.com/Givenyash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Givenyash/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Givenyash/Leetcode/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Givenyash/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
