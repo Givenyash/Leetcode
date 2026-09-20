@@ -2,11 +2,11 @@ class Solution {
 public:
     vector<int> shuffle(vector<int>& nums, int n) {
        int z = nums.size();
-       vector<int>ans(2*n);
+       vector<int>ans;
 
         for(int i=0; i<n; i++){
-            ans[2*i] = nums[i];
-            ans[2*i+1] = nums[i+n];
+            ans.push_back(nums[i]);
+            ans.push_back(nums[n+i]);
         }
         return ans;
     }
