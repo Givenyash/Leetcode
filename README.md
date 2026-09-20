@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Givenyash/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Givenyash/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Givenyash/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Givenyash/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Givenyash/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Givenyash/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Givenyash/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Givenyash/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Givenyash/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Givenyash/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Givenyash/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Givenyash/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Givenyash/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Givenyash/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Givenyash/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Givenyash/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Givenyash/Leetcode/tree/master/2404-most-frequent-even-element) |
