@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Givenyash/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Givenyash/Leetcode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Givenyash/Leetcode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Givenyash/Leetcode/tree/master/0415-add-strings) |
@@ -332,10 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Givenyash/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Givenyash/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Givenyash/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Givenyash/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Givenyash/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
