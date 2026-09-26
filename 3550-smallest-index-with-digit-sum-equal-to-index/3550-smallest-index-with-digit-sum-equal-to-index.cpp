@@ -12,10 +12,7 @@ public:
 
     int smallestIndex(vector<int>& nums) {
         for(int i=0; i<nums.size(); i++){
-            int idx = i;
-            int x = nums[i];
-
-            if(add(x) == idx){
+            if(add(nums[i]) == i){
                 return i;
             }
         }
