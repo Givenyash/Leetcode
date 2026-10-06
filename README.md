@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Givenyash/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Givenyash/Leetcode/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Givenyash/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/Givenyash/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Givenyash/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Givenyash/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/Givenyash/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Givenyash/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Givenyash/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
 | ------- |
