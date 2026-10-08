@@ -1,12 +1,14 @@
 class Solution {
 public:
-    void solve(int index, vector<vector<int>>&ans, vector<int>curr, vector<int>nums){
+    void solve(int index, vector<vector<int>>&ans, vector<int>&curr, vector<int>nums){
             if(index == nums.size()){
                 ans.push_back(curr);
                 return;
             }
-            solve(index + 1, ans, curr, nums);
+
             curr.push_back(nums[index]);
+            solve(index + 1, ans, curr, nums);
+            curr.pop_back();
             solve(index + 1, ans, curr, nums);
     }
 
