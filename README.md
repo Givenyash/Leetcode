@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Givenyash/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Givenyash/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Givenyash/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Givenyash/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Givenyash/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Givenyash/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Givenyash/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Givenyash/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Givenyash/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Givenyash/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Givenyash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Givenyash/Leetcode/tree/master/0229-majority-element-ii) |
@@ -341,10 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Givenyash/Leetcode/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Givenyash/Leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Givenyash/Leetcode/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Givenyash/Leetcode/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
