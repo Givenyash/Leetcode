@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Givenyash/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Givenyash/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Givenyash/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/Givenyash/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Givenyash/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Givenyash/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Givenyash/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Givenyash/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Givenyash/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Givenyash/Leetcode/tree/master/0191-number-of-1-bits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Givenyash/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
