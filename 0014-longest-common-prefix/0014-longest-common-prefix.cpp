@@ -7,7 +7,7 @@ public:
         string last = strs[strs.size() - 1];
         string ans = "";
 
-        for(int i=0; i<first.size(); i++){
+        for(int i=0; i<min(first.size(), last.size()); i++){
             if(last[i] == first[i]){
                 ans += last[i];
             }
