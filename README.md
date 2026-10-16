@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Givenyash/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/Givenyash/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Givenyash/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Givenyash/Leetcode/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Givenyash/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Givenyash/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0832-flipping-an-image](https://github.com/Givenyash/Leetcode/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/Givenyash/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Givenyash/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Givenyash/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/Givenyash/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Givenyash/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0526-beautiful-arrangement](https://github.com/Givenyash/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Givenyash/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0845-longest-mountain-in-array](https://github.com/Givenyash/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Givenyash/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Givenyash/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/Givenyash/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Givenyash/Leetcode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Givenyash/Leetcode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Givenyash/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
