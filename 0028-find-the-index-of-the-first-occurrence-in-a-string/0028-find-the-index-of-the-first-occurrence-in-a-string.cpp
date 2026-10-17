@@ -9,15 +9,7 @@ public:
         }
 
         for(int i=0; i<=n-m; i++){
-            bool match = true;
-
-            for(int j=0; j<m; j++){
-                if(haystack[i+j] != needle[j]){
-                    match = false;
-                    break;
-                }
-            }
-            if(match){
+            if(haystack.substr(i,m) == needle){
                 return i;
             }
         }
