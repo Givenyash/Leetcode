@@ -7,17 +7,17 @@ public:
         if(n < m){
             return -1;
         }
-        
+
         for(int i=0; i<=n-m; i++){
-            int count = 1;
+            bool match = true;
 
             for(int j=0; j<m; j++){
                 if(haystack[i+j] != needle[j]){
-                    count = 0;
+                    match = false;
                     break;
                 }
             }
-            if(count == 1){
+            if(match){
                 return i;
             }
         }
